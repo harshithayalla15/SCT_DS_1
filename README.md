@@ -9,6 +9,8 @@ Objective:
     To visualize the distribution of variables like Age (continuous) and Gender (categorical) using plots like histograms and bar charts.**
 
 Steps I Followed:
+
+
  1.Collected the Dataset:
        I sourced a real-world dataset from Kaggle, which contained demographic details like Name, Age, and Gender.
     
