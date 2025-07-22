@@ -40,6 +40,7 @@ Steps I Followed:
        These visualizations provided insights into the gender ratio and the dominant age ranges within the dataset.
 
 🔧 Tools & Libraries Used:
+
 Pandas – for data loading, cleaning, and exploration
 
 Matplotlib – for creating the histogram
