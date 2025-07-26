@@ -6,7 +6,7 @@ TASK 01 Completed: Visualizing Data from a CSV using Python!
 As part of my Data Science journey, I completed Task 01 — creating visualizations using a real dataset stored in CSV format. This task helped me explore the basics of data loading, cleaning, and visual representation.
 
 Objective:
-    To visualize the distribution of variables like Age (continuous) and Gender (categorical) using plots like histograms and bar charts.**
+    To visualize the distribution of variables like Age (continuous) and Gender (categorical) using plots like histograms and bar charts.
 
 Steps I Followed:
 
